@@ -1,5 +1,5 @@
 # Templates for Obsidian and Templater for use with genealogy research
-One of my hobbies is genealogy research; it has been a hobby since the early eighties. Back then, I had to write down everything or make a xerox of it (if even possible). Today, making notes and doing research is way easier when using a program like [Obsidian](https://obsidian.md). And especially when using the extremely powerfull plugin [Templater](https://github.com/SilentVoid13/Templater``). Below are the templates I use almost exclusively in my genealogy-vault.
+One of my hobbies is genealogy research; it has been a hobby since the early eighties. Back then, I had to write down everything or make a xerox of it (if even possible). Today, making notes and doing research is way easier when using a program like [Obsidian](https://obsidian.md). And especially when using the extremely powerfull plugin [Templater](https://github.com/SilentVoid13/Templater). Below are the templates I use almost exclusively in my genealogy-vault.
 
 I have to apologise in advance; all texts are in Dutch (my native language)
 
