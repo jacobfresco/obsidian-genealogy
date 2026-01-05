@@ -2,6 +2,7 @@
 surname: 
 first_name: 
 nick_name: 
+aliases:
 father: 
 mother: 
 siblings:
