@@ -22,6 +22,20 @@ Download the templates and copy them to the folder in your vault that you config
 | [update-onderzoekstaak.md](update-onderzoekstaak.md) | Insert | A template that allows you to insert the researchtask into existing notes |
 | [update-persoonskaart.md](update-persoonskaart.md) | Insert | A template that will transform the frontmatter in a note created by [persoonskaart.md](Persoonskaart.md) or containing the [basis-persoonskaart.md](basis-persoonskaart.md) to a fully fledged individual record. |
 
+
+## Buttons
+I primarily use the Buttons plugin for inline buttons in my genealogy-vauylt. Below is the code for the button to add a task to a research task (as you can see on the screenshots). 
+
+````
+```button
+name Add task
+type prepend template
+action Taak - Insert
+templater true
+```
+^button-inserttask
+````
+
 ## Screenshots
 
 #### New Research Task
@@ -30,7 +44,7 @@ Download the templates and copy them to the folder in your vault that you config
 #### Research Task in Edit Mode
 ![Onderzoekstaak Edit Mode](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/onderzoekstaak-editpng.png)
 
-#### Add a task to a research task
+#### Add a task to a research task (the button was added using the Butons plugin)
 ![onderzoekstaak - add task](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/onderzoekstaak-addtask.png)
 
 #### Research task in read mode
