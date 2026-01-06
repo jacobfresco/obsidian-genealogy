@@ -6,7 +6,7 @@ I have to apologise in advance; all texts are in Dutch (my native language)
 - [Obsidian](https://obsidian.md)
 - [Templater](https://github.com/SilentVoid13/Templater)
 - [Commander](https://github.com/phibr0/obsidian-commander) (Optional)
-- [Buttons](https://github.com/shabegom/buttons?tab=readme-ov-file) (Optional)
+- [Buttons](https://github.com/shabegom/buttons) (Optional)
 
 ## How to use them?
 Download the templates and copy them to the folder in your vault that you configured as your template-folder. After that, create Templater-shortcuts for each template. You can assign keys to the shortcuts, but that's optional. If you use commander, you can add the Templater commands to the context menu for the editor and the titelbar in Obsidian. This also is optional.
@@ -22,5 +22,16 @@ Download the templates and copy them to the folder in your vault that you config
 | [update-onderzoekstaak.md](update-onderzoekstaak.md) | Insert | A template that allows you to insert the researchtask into existing notes |
 | [update-persoonskaart.md](update-persoonskaart.md) | Insert | A template that will transform the frontmatter in a note created by [persoonskaart.md](Persoonskaart.md) or containing the [basis-persoonskaart.md](basis-persoonskaart.md) to a fully fledged individual record. |
 
+## Screenshots
 
+#### New Research Task
+![Onderzoekstaak](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/onderzoekstaak-new.png)
 
+#### Research Task in Edit Mode
+![Onderzoekstaak Edit Mode](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/onderzoekstaak-editpng.png)
+
+#### Add a task to a research task
+![onderzoekstaak - add task](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/onderzoekstaak-addtask.png)
+
+#### Research task in read mode
+![onderzoekstaak - taskadded](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/onderzoekstaak-taskadded.png)
