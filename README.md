@@ -6,6 +6,7 @@ I have to apologise in advance; all texts are in Dutch (my native language)
 - [Obsidian](https://obsidian.md)
 - [Templater](https://github.com/SilentVoid13/Templater)
 - [Commander](https://github.com/phibr0/obsidian-commander) (Optional)
+- [Buttons](https://github.com/shabegom/buttons?tab=readme-ov-file) (Optional)
 
 ## How to use them?
 Download the templates and copy them to the folder in your vault that you configured as your template-folder. After that, create Templater-shortcuts for each template. You can assign keys to the shortcuts, but that's optional. If you use commander, you can add the Templater commands to the context menu for the editor and the titelbar in Obsidian. This also is optional.
@@ -15,7 +16,7 @@ Download the templates and copy them to the folder in your vault that you config
 | --- | --- | --- |
 | [onderzoekstaak.md](Onderzoekstaak.md) | Create | A template for a single research task. It allows for entering a title and tags and subdivides the note into several sections |
 | [persoonskaart.md](Persoonskaart.md) | Create |  A template for a single individual record. It allows for all details to be entered into frontmatter. Can be updated by inserting [update-persoonskaart.md](update-persoonskaart.md) |
-| [Taak - Insert.md](Taak - Insert.md) | Insert | A template to add a task to the current note (used within [onderzoekstaak.md](Onderzoekstaak.md)) |
+| [Taak - Insert.md](Taak%20-%20Insert.md) | Insert | A template to add a task to the current note (used within [onderzoekstaak.md](Onderzoekstaak.md)) |
 | [basis-persoonskaart.md](basis-persoonskaart.md)| Insert | A template containing only the basis frontmatter for a persoonskaart. For example: if you receive notes from somebody else and need to update it to your own standard |
 | [status-wijziging.md](status-wijziging.md) | Insert | A small template that allows to you to change the status of a note created with the onderzoekstaak.md (frontmatter: status) |
 | [update-onderzoekstaak.md](update-onderzoekstaak.md) | Insert | A template that allows you to insert the researchtask into existing notes |
