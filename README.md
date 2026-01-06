@@ -35,3 +35,12 @@ Download the templates and copy them to the folder in your vault that you config
 
 #### Research task in read mode
 ![onderzoekstaak - taskadded](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/onderzoekstaak-taskadded.png)
+
+#### Individual record
+![persoonskaart - edit](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/persoonskaart-edit.png)
+
+#### Individual record - Reading mode
+![persoonskaart - read mode](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/persoonskaart-read.png)
+
+#### Individual record - update (menu options were added using the Commander-plugin)
+![persoonskaart - update](https://github.com/jacobfresco/obsidian-genealogy/blob/main/screenshots/persoonskaart-update.png)
