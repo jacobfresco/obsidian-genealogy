@@ -15,6 +15,7 @@ Download the templates and copy them to the folder in your vault that you config
 | --- | --- | --- |
 | [onderzoekstaak.md](Onderzoekstaak.md) | Create | A template for a single research task. It allows for entering a title and tags and subdivides the note into several sections |
 | [persoonskaart.md](Persoonskaart.md) | Create |  A template for a single individual record. It allows for all details to be entered into frontmatter. Can be updated by inserting [update-persoonskaart.md](update-persoonskaart.md) |
+| [Taak - Insert.md](Taak - Insert.md) | Insert | A template to add a task to the current note (used within [onderzoekstaak.md](Onderzoekstaak.md)) |
 | [basis-persoonskaart.md](basis-persoonskaart.md)| Insert | A template containing only the basis frontmatter for a persoonskaart. For example: if you receive notes from somebody else and need to update it to your own standard |
 | [status-wijziging.md](status-wijziging.md) | Insert | A small template that allows to you to change the status of a note created with the onderzoekstaak.md (frontmatter: status) |
 | [update-onderzoekstaak.md](update-onderzoekstaak.md) | Insert | A template that allows you to insert the researchtask into existing notes |
