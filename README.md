@@ -24,7 +24,7 @@ Download the templates and copy them to the folder in your vault that you config
 
 
 ## Buttons
-I primarily use the Buttons plugin for inline buttons in my genealogy-vauylt. Below is the code for the button to add a task to a research task (as you can see on the screenshots). 
+I primarily use the Buttons-plugin for inline buttons in my genealogy-vault. Below is the code for the button to add a task to a research task (as you can see on the screenshots). 
 
 ````
 ```button
